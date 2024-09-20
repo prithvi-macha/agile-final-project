@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**Title:** [Title of the Issue]
+Title:
 
-**As a** [Role],
+As a
 
-**I need** [Functionality],
+I need
 
-**So that** [Benefit].
+So that
